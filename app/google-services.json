@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465751227260",
+    "project_id": "my-college-app-c53df",
+    "storage_bucket": "my-college-app-c53df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465751227260:android:9733c1201a1823a54a02f9",
+        "android_client_info": {
+          "package_name": "com.example.sandipianadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465751227260-nqhak5l27r1dbqvhttmqpo24r5om9hd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_hpHr2fOvxMwZMbg8KPdgjsBPgA32BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465751227260-nqhak5l27r1dbqvhttmqpo24r5om9hd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
